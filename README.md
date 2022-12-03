@@ -1,24 +1,16 @@
-### Hi there, I'm Charles Parent
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesParent&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Charles's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesParent&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<!--
-**CharlesParent/CharlesParent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 📫 How to reach me: [@charles-parent][linkedin]
-
-### Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesParent&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Github Stats:
-
-![CharlesParent's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesParent&count_private=truea&show_icons=true&theme=dark)
-
-### Open Source Projects:
-
-[![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord&theme=dark)](https://github.com/orolia2s/oscillatord)
+#### Top Repositories
 
 
-[![Disciplining Minipod Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=disciplining-minipod&theme=dark)](https://github.com/orolia2s/disciplining-minipod)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=disciplining-minipod&theme=buefy" />
+</a>
+
 
 [linkedin]: https://www.linkedin.com/in/charles-parent/
 [github]: https://github.com/CharlesParent
