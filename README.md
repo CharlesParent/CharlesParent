@@ -22,10 +22,10 @@
 
 ### Open Source Projects:
 
-[![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord)](https://github.com/orolia2s/oscillatord)
+[![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord&theme=tokyonight)](https://github.com/orolia2s/oscillatord)
 
 
-[![Disciplining Minipod Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=disciplining-minipod)](https://github.com/orolia2s/disciplining-minipod)
+[![Disciplining Minipod Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=disciplining-minipod&theme=gruvbox)](https://github.com/orolia2s/disciplining-minipod)
 
 [WeWard]: https://www.weward.fr/
 [linkedin]: https://www.linkedin.com/in/charles-parent/
