@@ -29,6 +29,9 @@
 
 ![CharlesParent's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesParent&count_private=truea&show_icons=true&theme=synthwave)
 
+### Open Source:
+
+[![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlesParent&repo=oscillatord)](https://github.com/orolia2s/oscillatord)
 
 [WeWard]: https://www.weward.fr/
 [linkedin]: https://www.linkedin.com/in/charles-parent/
