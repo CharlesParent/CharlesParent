@@ -7,7 +7,7 @@
 
 ### Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesParent&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesParent&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats:
 
@@ -15,10 +15,10 @@
 
 ### Open Source Projects:
 
-[![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord&theme=merko)](https://github.com/orolia2s/oscillatord)
+[![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord&theme=dark)](https://github.com/orolia2s/oscillatord)
 
 
-[![Disciplining Minipod Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=disciplining-minipod&theme=onedark)](https://github.com/orolia2s/disciplining-minipod)
+[![Disciplining Minipod Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=disciplining-minipod&theme=dark)](https://github.com/orolia2s/disciplining-minipod)
 
 [WeWard]: https://www.weward.fr/
 [linkedin]: https://www.linkedin.com/in/charles-parent/
