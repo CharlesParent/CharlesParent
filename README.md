@@ -26,7 +26,7 @@
 <br />
 
 ### 📊 GitHub Stats:
-![CharlesParent's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesParent)](https://github.com/anuraghazra/github-readme-stats)
+![CharlesParent's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesParent)]
 
 
 [WeWard]: https://www.weward.fr/
