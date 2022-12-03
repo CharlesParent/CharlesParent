@@ -25,6 +25,8 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesParent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Github Stats:
 
 ![CharlesParent's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesParent&count_private=truea&show_icons=true&theme=synthwave)
