@@ -29,7 +29,7 @@
 
 ![CharlesParent's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesParent&count_private=truea&show_icons=true&theme=synthwave)
 
-### Open Source:
+### Open Source Projects:
 
 [![Oscillatord Card](https://github-readme-stats.vercel.app/api/pin/?username=orolia2s&repo=oscillatord)](https://github.com/orolia2s/oscillatord)
 
