@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Lead+%40+WeWard;Python+%7C+React+%7C+Embedded+Systems;Building+products+that+move+people&font=Fira+Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000&size=22" />
+    <img alt="Tech Lead @ WeWard | Python | React" src="https://readme-typing-svg.demolab.com/?lines=Tech+Lead+%40+WeWard;Python+%7C+React;Building+products+that+move+people&font=Fira+Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
