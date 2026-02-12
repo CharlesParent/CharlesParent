@@ -15,13 +15,13 @@
 
 ---
 
-### About me
+### 👋 About me
 
 Software Engineer and drummer.
 Tech Lead at **[WeWard](https://www.wewardapp.com)** - the app that rewards you for walking.
 Telecom ParisTech alumni. Passionate about building products, embedded systems, and metal music.
 
-### Tech stack
+### 🛠 Tech stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
@@ -35,10 +35,10 @@ Telecom ParisTech alumni. Passionate about building products, embedded systems, 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
 </p>
 
-### Open source
+### 🌍 Open source
 
 Built and maintained **[oscillatord](https://github.com/Orolia2s/oscillatord)** - a C daemon that disciplines oscillators to GNSS references on the [Atomic Reference Time Card](https://github.com/Time-Appliances-Project/Time-Card) (ART). Handles phase error monitoring, control loop adjustments, and hardware clock synchronization.
 
-### Writing
+### ✍️ Writing
 
 - [The Power of the Streak: How We Increased Retention by 16%](https://medium.com/@charles_63568/the-power-of-the-streak-how-we-increased-retention-by-16-ff0b9c043099) - Medium
