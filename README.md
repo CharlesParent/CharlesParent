@@ -13,13 +13,26 @@
   </a>
 </p>
 
+<p align="center">
+  <b>Engineering Manager, Growth at WeWard</b> · Paris, France
+</p>
+
 ---
 
 ### 👋 About me
 
-Software Engineer and drummer.
-Engineering Manager, Growth at **[WeWard](https://www.wewardapp.com)** - the app that rewards you for walking.
-Telecom ParisTech alumni. Passionate about building products, embedded systems, and metal music.
+Engineering Manager leading the Growth team at **[WeWard](https://www.wewardapp.com)**, the app that rewards you for walking.
+I care about shipping experiments fast, measuring what they actually change, and keeping engineering craft high.
+
+My team builds with AI coding agents every day, from specs to code review to delivery.
+I'm interested in how engineering management changes when part of a team's output comes from agents.
+
+Software engineer by training (Télécom Paris), drummer, and metal fan.
+
+### 🏆 Highlights
+
+- **+16% retention** from a streak feature ([write-up](https://medium.com/@charles_63568/the-power-of-the-streak-how-we-increased-retention-by-16-ff0b9c043099))
+- Built and maintained **[oscillatord](https://github.com/Orolia2s/oscillatord)**, a C daemon that disciplines oscillators to GNSS references on the [Atomic Reference Time Card](https://github.com/Time-Appliances-Project/Time-Card)
 
 ### 🛠 Tech stack
 
@@ -34,10 +47,6 @@ Telecom ParisTech alumni. Passionate about building products, embedded systems, 
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
 </p>
-
-### 🌍 Open source
-
-Built and maintained **[oscillatord](https://github.com/Orolia2s/oscillatord)** - a C daemon that disciplines oscillators to GNSS references on the [Atomic Reference Time Card](https://github.com/Time-Appliances-Project/Time-Card) (ART). Handles phase error monitoring, control loop adjustments, and hardware clock synchronization.
 
 ### ✍️ Writing
 
